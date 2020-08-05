@@ -37,6 +37,13 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
+
+##### Looking forward to starting
+![NodeJS](https://img.shields.io/badge/-NodeJS-E34F26?style=flat-square&logo=NodeJS)
+![MongoDB](https://img.shields.io/badge/-MongoDB-1572B6?style=flat-square&logo=MongoDB)
+
+#####
+
 ### Some of my GitHub Stats
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=ashish-agr&show_icons=true&theme=dark&line_height=40">
