@@ -39,7 +39,7 @@
 
 
 ##### Looking forward to starting
-![NodeJS](https://img.shields.io/badge/-NodeJS-E34F26?style=flat-square&logo=NodeJS)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-1572B6?style=flat-square&logo=MongoDB)
 
 #####
