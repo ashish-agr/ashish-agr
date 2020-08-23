@@ -39,7 +39,7 @@
 
 
 ##### Looking forward to starting
-![Expressjs](https://img.shields.io/badge/-Expressjs-black?style=flat-square&logo=Express.js)
+![Expressjs](https://img.shields.io/badge/-Expressjs-black?style=flat-square&logo=Expressjs)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=MongoDB)
 
 #####
