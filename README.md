@@ -1,6 +1,6 @@
 # Hey there<img src="https://raw.githubusercontent.com/ashish-agr/ashish-agr/master/wave.gif" width="30px"><br>I am Ashish Agrawal.
 
-### I am a third year CS under-grad from SRMIST KTR Campus, Chennai. I am a front-end developer, currently working with ReactJS. 
+### I am a third year CS under-grad from SRMIST KTR Campus, Chennai. I am a front-end developer, currently working with ReactJS, Python and C#. 
 ### I am a Web Developer with the _SRM Data Science Community_ and part of the Delegate Affairs team of the _National Youth Collaqium_. Recently, I interned as a Digital Marketing Associate with _Edggi_, a free carrer counselling platform. I worked with their Resume Builder Module and contributed to their LinkedIn profile optimization.
 
 #### Connect with me on - 
@@ -16,7 +16,7 @@
 ###### Learning
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP)
-![WordPress](https://img.shields.io/badge/-WordPress-21759b?style=flat-square&logo=WordPress)
+![C#](https://img.shields.io/badge/-C#-21759b?style=flat-square&logo=C#)
 ![MYSQL](https://img.shields.io/badge/-MYSQL-F29111?style=flat-square&logo=MYSQL)
 
 
@@ -39,7 +39,7 @@
 
 
 ##### Looking forward to starting
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Expressjs](https://img.shields.io/badge/-Expressjs-black?style=flat-square&logo=Express.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=MongoDB)
 
 #####
