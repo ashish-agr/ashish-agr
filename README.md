@@ -16,7 +16,7 @@
 ###### Learning
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP)
-![C Sharp](https://img.shields.io/badge/-C%23-a37bdd?style=flat-square)
+![C Sharp](https://img.shields.io/badge/-C%23-a37bdd?style=flat-square&logo=C)
 ![MYSQL](https://img.shields.io/badge/-MYSQL-F29111?style=flat-square&logo=MYSQL)
 
 
@@ -39,7 +39,8 @@
 
 
 ##### Looking forward to starting
-![Expressjs](https://img.shields.io/badge/-Expressjs-black?style=flat-square&logo=Expressjs)
+![Expressjs](https://img.shields.io/badge/-ExpressJS-black?style=flat-square&logo=Express)
+![Nodejs](https://img.shields.io/badge/-NodeJS-black?style=flat-square&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=MongoDB)
 
 #####
