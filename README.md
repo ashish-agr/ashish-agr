@@ -16,7 +16,7 @@
 ###### Learning
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP)
-![C Sharp](https://img.shields.io/badge/-C#-21759b?style=flat-square&logo=C#)
+![C Sharp](https://img.shields.io/badge/-C%23-a37bdd?style=flat-square)
 ![MYSQL](https://img.shields.io/badge/-MYSQL-F29111?style=flat-square&logo=MYSQL)
 
 
